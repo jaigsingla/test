@@ -1,4 +1,4 @@
-baseURL = "http://examplesite.org"
+#baseURL = "http://examplesite.org"
 title = "AG | AG classes"
 theme = "edu"
 # post pagination
