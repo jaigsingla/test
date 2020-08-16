@@ -1,0 +1,153 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/banner-1.jpg"
+  slider_item:
+    # slider item loop
+    - title : "Ensuring your Kid a bright future Ahead"
+      content : "By logical reasoning, analytical ablities and problem solving skills we are sure to change your future"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact"
+
+    # slider item loop
+    - title : "Ensuring your Kid a bright future Ahead"
+      content : "Basic Programming skills to space technology and robotics for bright kids"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact"
+
+    # slider item loop
+    - title : "Ensuring your Kid a bright future Ahead"
+      content : "Enjoy with very skilled staff and learn life changing skills"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact"
+
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/banner-feature.jpg"
+  feature_item:
+    # feature item loop
+    - name : "Scholorship News"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "Coming soon"
+
+    # feature item loop
+#    - name : "Our Notice Board"
+ #     icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+  #    content : "#"
+
+    # feature item loop
+    - name : "Our Achievements"
+      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      content : "Succeeding in tranforming brains"
+
+    # feature item loop
+    - name : "Admission Now"
+      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+      content : "Limited offers applied"
+
+############################## Why Now ##################################
+why:
+  enable : true
+  title : "Why programming at such a young age"
+  image : "images/why/why.jpg"
+  content : "1. Kids are very innovative so to channelize their mind in right direction 2. To develop their logical and analytical skills 3. To get rid of the programming fear 4. To boost confidence by gaining insight about latest technologies 5. Early start will definately change their mind set. 6. To cop up with new education scenarios and national and global level." 
+  button:
+    enable : true
+    label : "Learn more"
+    link : "why"
+
+############################## about ##################################
+about:
+  enable : true
+  title : "About AG Classes"
+  image : "images/about/about-us.jpg"
+  content : "After gaining rich experience with top rated online learning courses we have started our journey to provide quality education on affordable prices. So, we couple of professionals joined hands 
+together to provide right to home educations for every kid of our country." 
+  button:
+    enable : true
+    label : "Learn more"
+    link : "about"
+
+
+############################# Course ################################
+course:
+  enable : true
+  title : "Our Course"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : false
+  subtitle : "Click to Join the Advance Workshop"
+  title : "Advanced learning programme"
+  button:
+    enable : true
+    label : "join now"
+    link : "contact"
+
+
+######################## Success story #############################
+success_story:
+  enable : true
+  bg_image : "images/backgrounds/success-story.jpg"
+  title : "Success Stories"
+  content : "#"
+            
+ 
+  # video link
+  video_link : "#"
+
+
+############################# event ################################
+event:
+  enable : false
+  title : "Upcoming Events"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    #- name : "TEACHERS"
+     # count : "5"
+
+    # funfact item loop
+    - name : "COURSES"
+      count : "5"
+
+    # funfact item loop
+    - name : "STUDENTS"
+      count : "50"
+
+    # funfact item loop
+    - name : "SITE HITS"
+      count : "2000"
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : false
+  title : "Latest News"
+  # blog item comes from "content/**/blog" folder.
