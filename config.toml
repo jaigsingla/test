@@ -1,4 +1,4 @@
-#baseURL = "http://examplesite.org"
+baseURL = "https://funcoders.netlify.app/"
 title = "AG | AG classes"
 theme = "edu"
 # post pagination
