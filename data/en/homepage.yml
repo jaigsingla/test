@@ -43,48 +43,18 @@ banner_feature:
   image : "images/banner/banner-feature.jpg"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
-      icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Coming soon"
-
-    # feature item loop
-#    - name : "Our Notice Board"
- #     icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-  #    content : "#"
-
-    # feature item loop
-    - name : "Our Achievements"
-      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Succeeding in tranforming brains"
-
-    # feature item loop
-    - name : "Admission Now"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Limited offers applied"
+  
 
 ############################## Why Now ##################################
 why:
-  enable : true
-  title : "Why programming at such a young age"
-  image : "images/why/why.jpg"
-  content : "1. Kids are very innovative so to channelize their mind in right direction 2. To develop their logical and analytical skills 3. To get rid of the programming fear 4. To boost confidence by gaining insight about latest technologies 5. Early start will definately change their mind set. 6. To cop up with new education scenarios and national and global level." 
-  button:
-    enable : true
-    label : "Learn more"
-    link : "why"
-
-############################## about ##################################
-about:
   enable : true
   title : "Robotics"
   image : "images/about/about-us.png"
   content : "micro:bit is a pocket-sized computer that introduces you to how software and hardware work together. It has an LED light display, buttons, sensors and many input/output features that, when programmed, let it interact with you and your world.
 ." 
-  button:
-    enable : false
-    label : "Learn more"
-    link : "about"
+  
 
+############################## about ##################################
 about:
   enable : true
   title : "Block Base Coding"
