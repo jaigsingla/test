@@ -4,14 +4,14 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Ensuring your Kid a bright future Ahead"
-      content : "By logical reasoning, analytical ablities and problem solving skills we are sure to change your future"
+    - title : "A fun and interactive way to learn Coding from Experts."
+      content : "Online live classes for kids of 6-15 age group"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Book Free Demo"
         link : "contact"
 
     # slider item loop
@@ -22,7 +22,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Book Free Demo"
         link : "contact"
 
     # slider item loop
@@ -33,7 +33,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Book Free Demo"
         link : "contact"
 
 
