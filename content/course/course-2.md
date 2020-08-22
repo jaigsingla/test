@@ -9,7 +9,7 @@ description : ""
 # course thumbnail
 image: "images/courses/course-2.png"
 # taxonomy
-category: "Coding for begineers"
+category: "Grade 4-8"
 # teacher
 teacher: ""
 # duration
