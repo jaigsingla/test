@@ -4,72 +4,80 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "A fun and interactive way to learn Coding from Experts."
-      content : "Online live classes for kids of 6-15 age group"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Book Free Demo"
-        link : "contact"
-
-    # slider item loop
     - title : "Ensuring your Kid a bright future Ahead"
-      content : "Basic Programming skills to space technology and robotics for bright kids"
+      content : "By logical reasoning, analytical ablities and problem solving skills we are sure to change your future"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Book Free Demo"
+        label : "Book a Demo class"
         link : "contact"
 
     # slider item loop
-    #- title : "Ensuring your Kid a bright future Ahead"
-     # content : "Enjoy with very skilled staff and learn life changing skills"
-      #animation_in : "left"
-      #animation_out : "right"
+
+    - title : "A fun and interactive way to learn Coding from Experts"
+      content : "Enjoy Online live classes for kids of  6-15 age group"
+      animation_in : "left"
+      animation_out : "right"
       # available animation : left, right, up, down
-      #button:
-       # enable : true
-        #label : "Book Free Demo"
-        #link : "contact"
+      button:
+        enable : true
+        label : "Book a Demo class"
+        link : "contact"
 
 
 ############################### Banner feature ###############################
 banner_feature:
-  enable : true
-  title: "Robotics"
-  image : "images/about/about-us.png"
-  feature_item: 
-  - name : "Robotics"
-    icon : "ti-book"
-    content: "micro:bit is a pocket-sized computer that introduces you to how software and hardware work together. It has an LED light display, buttons, sensors and many input/output features that, when programmed, let it interact with you and your world.
-." 
-  
+  enable : false
+  image : "images/banner/banner-feature.jpg"
+  feature_item:
+    # feature item loop
+    - name : "Scholorship News"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "Coming soon"
+
+    # feature item loop
+#    - name : "Our Notice Board"
+ #     icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+  #    content : "#"
+
+    # feature item loop
+    - name : "Our Achievements"
+      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      content : "Succeeding in tranforming brains"
+
+    # feature item loop
+    - name : "Admission Now"
+      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+      content : "Limited offers applied"
 
 ############################## Why Now ##################################
 why:
   enable : true
-  title : "Robotics"
-  image : "images/about/about-us.png"
-  content : "micro:bit is a pocket-sized computer that introduces you to how software and hardware work together. It has an LED light display, buttons, sensors and many input/output features that, when programmed, let it interact with you and your world.
-." 
-  
+  title : "Block Based Coding"
+  image : "images/why/block.jpg"
+  content : "With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community. Scratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century."
 
 ############################## about ##################################
 about:
   enable : true
-  title : "Block Base Coding"
-  content : "With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community. Scratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century.
-" 
-  image : "images/about/block.jpg"
-  
+  title : "Robotics"
+  image : "images/about/robotics.png"
+  content : "micro:bit is a pocket-sized computer that introduces you to how software and hardware work together. It has an LED light display, buttons, sensors and many input/output features that, when programmed, let it interact with you and your world."
+
+############################## c2 ##################################
+c2:
+  enable : true
+  title : "Web site designing with html and css"
+  image : "images/html.png"
+  content : "Hypertext Markup Language, or HTML, is a programming language used to describe the structure of information on a web page. Together, HTML, CSS, and JavaScript make up the essential building blocks of websites, with CSS controlling a page’s appearance, and JavaScript programming its functionality. You can think of HTML as providing the bones of a web page, while CSS provides the skin, and JavaScript provides the brains."
+
+
 ############################# Course ################################
 course:
   enable : true
-  title : "Our Course"
+  title : "Our offerings "
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
