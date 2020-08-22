@@ -1,5 +1,5 @@
 ---
-title: "Basics of Computer Science"
+title: "Grade 1-4"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -17,7 +17,7 @@ duration : "02 Month"
 # weekly
 weekly : "03 hours"
 # course fee
-fee : "From: 1500 Rs"
+fee : "1500 "
 # apply url
 apply_url : "#"
 # type
