@@ -76,10 +76,10 @@ why:
 ############################## about ##################################
 about:
   enable : true
-  title : "About AG Classes"
-  image : "images/about/about-us.jpg"
-  content : "After gaining rich experience with top rated online learning courses we have started our journey to provide quality education on affordable prices. So, we couple of professionals joined hands 
-together to provide right to home educations for every kid of our country." 
+  title : "Robotics"
+  image : "images/about/about-us.png"
+  content : "micro:bit is a pocket-sized computer that introduces you to how software and hardware work together. It has an LED light display, buttons, sensors and many input/output features that, when programmed, let it interact with you and your world.
+." 
   button:
     enable : true
     label : "Learn more"
