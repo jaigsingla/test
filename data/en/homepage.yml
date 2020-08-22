@@ -26,15 +26,15 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "Ensuring your Kid a bright future Ahead"
-      content : "Enjoy with very skilled staff and learn life changing skills"
-      animation_in : "left"
-      animation_out : "right"
+    #- title : "Ensuring your Kid a bright future Ahead"
+     # content : "Enjoy with very skilled staff and learn life changing skills"
+      #animation_in : "left"
+      #animation_out : "right"
       # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Book Free Demo"
-        link : "contact"
+      #button:
+       # enable : true
+        #label : "Book Free Demo"
+        #link : "contact"
 
 
 ############################### Banner feature ###############################
