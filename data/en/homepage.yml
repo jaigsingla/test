@@ -81,11 +81,17 @@ about:
   content : "micro:bit is a pocket-sized computer that introduces you to how software and hardware work together. It has an LED light display, buttons, sensors and many input/output features that, when programmed, let it interact with you and your world.
 ." 
   button:
-    enable : true
+    enable : false
     label : "Learn more"
     link : "about"
 
-
+about:
+  enable : true
+  title : "Block Base Coding"
+  content : "With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community. Scratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century.
+" 
+  image : "images/about/block.jpg"
+  
 ############################# Course ################################
 course:
   enable : true
