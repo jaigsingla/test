@@ -58,6 +58,9 @@
 - id: fee
   translation: fee
 
+- id: old_fee
+  translation: old fee
+
 - id: teacher
   translation: teacher
 
