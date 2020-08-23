@@ -10,7 +10,7 @@ description : "Grade 1-6"
 # course thumbnail
 image: "images/courses/course-4.jpg"
 # taxonomy
-category: "Computer"
+category: "Grade 1-6"
 # teacher
 #teacher: ""
 # duration
