@@ -5,7 +5,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : ""
+description : "Grade 1-6"
 
 # course thumbnail
 image: "images/courses/course-4.jpg"
