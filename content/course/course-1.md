@@ -5,14 +5,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Programming fundamentals
-Variables, if-else, loops, functions
-Events and Input handling
-Basics of Game Physics
-Basics of Collision Detection
-Intro to Algorithms
-Timers and Animations
-Game & Level Design"
+description : "Grade 1-6"
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
