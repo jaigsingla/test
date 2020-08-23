@@ -10,7 +10,7 @@ description : "starters"
 # course thumbnail
 image: "images/courses/course-4.jpg"
 # taxonomy
-category: "Computer"
+category: "starters"
 # teacher
 #teacher: ""
 # duration
