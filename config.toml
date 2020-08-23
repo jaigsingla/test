@@ -46,10 +46,10 @@ name = "About Us"
 URL = "about"
 weight = 1
 
-[[menu.main]]
-name = "Why now"
-URL = "why"
-weight = 2
+#[[menu.main]]
+#name = "Why now"
+#URL = "why"
+#weight = 2
 
 [[menu.main]]
 weight = 3
@@ -97,9 +97,9 @@ weight = 4
 name = "About Us"
 URL = "about"
 
-[[menu.footer]]
-name = "why now"
-URL = "why"
+#[[menu.footer]]
+#name = "why now"
+#URL = "why"
 
 [[menu.footer]]
 name = "course"
