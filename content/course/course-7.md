@@ -18,7 +18,7 @@ Hosting and Publishing your site"
 # course thumbnail
 image: "images/courses/course-4.jpg"
 # taxonomy
-category: "Computer"
+category: "Grade 7-10"
 # teacher
 #teacher: ""
 # duration
