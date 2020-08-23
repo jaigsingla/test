@@ -5,12 +5,21 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Grade 1-6"
+description : "Programming fundamentals
+Variables, if-else, loops, functions
+Events and Input handling
+LED board programming
+Live output on LED chit
+Practical Tests
+room temp check
+soil moisture check
+more live testes.
+"
 
 # course thumbnail
 image: "images/courses/course-3.png"
 # taxonomy
-category: "Computer"
+category: "Grade 1-6"
 # teacher
 #teacher: ""
 # duration
