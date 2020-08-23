@@ -5,12 +5,20 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Grade 1-6"
+description : "Programming fundamentals
+Variables, if-else, loops, functions
+Events and Input handling
+Storyboarding for Cartoon Strips and Animated Films
+Timers and Animations
+Costume Design
+Character Animation
+Dialogues & Narration
+"
 
 # course thumbnail
 image: "images/courses/course-2.jpg"
 # taxonomy
-category: "Computer"
+category: "Grade 1-6"
 # teacher
 #teacher: ""
 # duration
