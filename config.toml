@@ -1,5 +1,5 @@
 baseURL = "https://funcoders.netlify.app/"
-title = "AG | AG classes"
+title = "Fun coders"
 theme = "edu"
 # post pagination
 paginate = "6"
@@ -118,9 +118,9 @@ URL = "research"
 logo = "images/logo.png"
 # Meta data
 description = "This is meta description"
-author = "AG classes"
+author = "funcoders"
 # contact info
-address = "AG classes- Coding made fun for kids"
+address = "Fun coders- Coding made fun for kids"
 mobile = "+919041944149"
 email = "agclass.info@gmail.com"
 # contact form action
