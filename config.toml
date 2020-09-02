@@ -137,7 +137,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://forms.gle/XXVkzDFr2n3aUZiS8" # replace this url with yours
 mailchimp_form_name = "Registration Form" # replace this code with yours
@@ -156,10 +156,10 @@ title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
 link = "https://www.facebook.com/fn.coders"
 
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#title = "twitter"
+#icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
 [[params.social]]
 title = "linkedin"
