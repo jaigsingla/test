@@ -7,4 +7,4 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Contact Us"
 ---
 
-You can write to us. we are happy to answer your queries. 
+Please feel free to contact Us. we are happy to shape future of your child. 
