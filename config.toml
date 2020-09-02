@@ -122,7 +122,8 @@ author = "funcoders"
 # contact info
 address = "Fun coders- Coding made fun for kids"
 mobile = "+919041944149"
-email = "funcoders.mail@gmail.com , info@funcoders.in"
+email = "funcoders.mail@gmail.com 
+         info@funcoders.in"
 # contact form action
 contact_form_action = "https://formspree.io/xyynqveo" # contact form works with https://formspree.io
 # Google Analitycs
