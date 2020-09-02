@@ -122,7 +122,7 @@ author = "funcoders"
 # contact info
 address = "Fun coders- Coding made fun for kids"
 mobile = "+919041944149"
-email = "agclass.info@gmail.com"
+email = "funcoders.mail@gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -139,8 +139,8 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 [params.subscription]
 enable = true
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+mailchimp_form_action = "https://forms.gle/XXVkzDFr2n3aUZiS8" # replace this url with yours
+mailchimp_form_name = "Registration Form" # replace this code with yours
 
 # google map
 [params.map]
@@ -164,7 +164,7 @@ link = "#"
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "www.linkedin.com/company/funcoders"
 
 ################################### English language #####################################
 [Languages.en]
