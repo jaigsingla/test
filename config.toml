@@ -89,7 +89,7 @@ URL="course"
   
 [[menu.main]]
 name = "Contact"
-URL = "contact"
+URL = "https://forms.gle/XXVkzDFr2n3aUZiS8"
 weight = 4
 
 # footer menu
