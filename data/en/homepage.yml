@@ -12,7 +12,7 @@ slider:
       button:
         enable : true
         label : "Book a Demo class"
-        link : "contact"
+        link : "https://forms.gle/XXVkzDFr2n3aUZiS8"
 
     # slider item loop
 
