@@ -89,7 +89,7 @@ URL="course"
   
 [[menu.main]]
 name = "Contact"
-URL = "https://forms.gle/XXVkzDFr2n3aUZiS8"
+URL = "contact"
 weight = 4
 
 # footer menu
@@ -122,7 +122,7 @@ author = "funcoders"
 # contact info
 address = "Fun coders- Coding made fun for kids"
 mobile = "+919041944149"
-email = "funcoders.mail@gmail.com"
+email = "funcoders.mail@gmail.com , info@funcoders.in"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
