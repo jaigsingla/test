@@ -154,7 +154,7 @@ map_marker = "images/marker.png" # marker size 37*55 px
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://www.facebook.com/fn.coders"
+link = "https://www.facebook.com/fn.coders target=_blank"
 
 #[[params.social]]
 #title = "twitter"
