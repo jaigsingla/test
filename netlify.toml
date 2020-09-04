@@ -1,9 +1,9 @@
 [build]
   base="https://github.com/jaigsingla/test"
-  publish = "build-output/"
+  publish = "public/"
   command= "hugo"
 
 [build.environment]
-  HUGO_VERSION = "0.73.0"
+  HUGO_VERSION = "0.74.3"
   HUGO_THEME = "repo"
   HUGO_BASEURL = "/"
