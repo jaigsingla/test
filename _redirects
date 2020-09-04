@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "https://www.facebook.com/fn.coders"
+  from = "funcoders.in/fn/*"
   to = "https://www.facebook.com/fn.coders"
   status = 200
   force = true # COMMENT: ensure that we always redirect
