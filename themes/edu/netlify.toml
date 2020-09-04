@@ -13,3 +13,11 @@
   #  Content-Security-Policy = "frame-ancestors https://www.facebook.com"
 
     # Multi-value headers are expressed with multi-line strings.
+
+[[redirects]]
+  from = "https://www.facebook.com/fn.coders"
+  to = "https://www.facebook.com/fn.coders"
+  status = 301
+  force = true
+  query = {path = ":path"} #  apply this rule for /old-path?path=example
+  conditions = {Language = ["en","es"], Country = ["US"]}
