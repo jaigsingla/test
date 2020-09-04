@@ -1,3 +1,4 @@
-X-Frame-Options = "SAMEORIGIN"
-X-XSS-Protection: 0
-Content-Security-Policy: default-src 'self' *.funcoders.in
+Access-Control-Allow-Origin: *
+#X-Frame-Options = "SAMEORIGIN"
+#X-XSS-Protection: 0
+#Content-Security-Policy: default-src 'self' *.funcoders.in
