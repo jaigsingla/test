@@ -6,3 +6,10 @@
   HUGO_VERSION = "0.73.0"
   HUGO_THEME = "repo"
   HUGO_BASEURL = "/"
+  
+  [headers.values]
+    X-Frame-Options = "ALLOW"
+ #   X-XSS-Protection = "1; mode=block"
+  #  Content-Security-Policy = "frame-ancestors https://www.facebook.com"
+
+    # Multi-value headers are expressed with multi-line strings.
