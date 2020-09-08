@@ -17,7 +17,7 @@ more live testes.
 "
 
 # course thumbnail
-image: "images/courses/course-3.png"
+image: "images/courses/robotics.png"
 # taxonomy
 category: "Grade 1-6"
 # teacher
