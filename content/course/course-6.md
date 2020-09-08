@@ -8,7 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Starters"
 
 # course thumbnail
-image: "images/courses/course-4.jpg"
+image: "images/courses/Jr.png"
 # taxonomy
 category: "Starters"
 # teacher
