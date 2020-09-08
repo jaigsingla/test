@@ -15,7 +15,7 @@ Timers and Animations
 Game & Level Design
 "
 # course thumbnail
-image: "images/courses/course-1.jpg"
+image: "images/courses/game.jpg"
 # taxonomy
 category: "Grade 1-6"
 # teacher
