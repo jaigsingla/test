@@ -16,7 +16,7 @@ Hosting and Publishing your site"
 
 
 # course thumbnail
-image: "images/courses/course-4.jpg"
+image: "images/courses/html.png"
 # taxonomy
 category: "Grade 7-10"
 # teacher
