@@ -16,7 +16,7 @@ Dialogues & Narration
 "
 
 # course thumbnail
-image: "images/courses/course-2.jpg"
+image: "images/courses/Story Telling.jpg"
 # taxonomy
 category: "Grade 1-6"
 # teacher
