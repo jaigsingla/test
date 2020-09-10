@@ -21,9 +21,9 @@ We are a group of Professionals with IT & Education sector background. After gai
 
 
 ## WHY US
-Live 1 to 1 Class
-Contact-less Education
-Experienced Faculty
-Flexible Timings
-At Home Convenience
-Age Group 6-15 Years
+*Live 1 to 1 Class
+*Contact-less Education
+*Experienced Faculty
+*Flexible Timings
+*At Home Convenience
+*Age Group 6-15 Years
